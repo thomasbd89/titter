@@ -30,7 +30,7 @@ To deploy this project, follow these steps:
 1. Clone the project & change into the new directory
 
 ```sh
-git clone git@github.com:dabit3/titter.git
+git clone git@github.com:thomasbd89/titter.git
 
 cd titter
 ```
